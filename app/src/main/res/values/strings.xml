@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">BabyBookPH</string>
+
+    // Login
+    <string name="SignInToYourAccount">Sign In to Your Account</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="forgotpwd">Forgot Password?</string>
+    <string name="AllRightsReserved">eBaby Book PH. All rights reserved. 2017</string>
+    // End of Login
+
 </resources>
