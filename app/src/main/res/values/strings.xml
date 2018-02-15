@@ -10,4 +10,15 @@
     <string name="AllRightsReserved">eBaby Book PH. All rights reserved. 2017</string>
     // End of Login
 
+    // Registration
+    <string name="register">Register</string>
+    <string name="registerDesc">Sign up and get monthly updates and newsletter</string>
+    <string name="lblEmail">Email:</string>
+    <string name="lblUsername">Username:</string>
+    <string name="lblPassword">Password:</string>
+    <string name="lblPasswordConfirm">Confirm Password:</string>
+    <string name="lblAccountType">Account Type:</string>
+    <string name="signup">Sign Up</string>
+    // End of Registration
+
 </resources>
