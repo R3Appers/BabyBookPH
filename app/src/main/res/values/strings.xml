@@ -21,4 +21,18 @@
     <string name="signup">Sign Up</string>
     // End of Registration
 
+    // Main Menu
+    <string name="mainmenuTitle">Happy Parenting</string>
+    <string name="mainmenuDesc">Share updates with your spouse, yaya, or family members. Sync updates, plan schedules and many more.</string>
+    <string name="babyInfo">Baby Info</string>
+    <string name="nurture">Nurture</string>
+    <string name="myPedia">My Pedia</string>
+    <string name="thousandDays">1000 Days</string>
+    <string name="tips">Tips</string>
+    <string name="forum">Forum</string>
+    <string name="videos">Videos</string>
+    <string name="community">Community</string>
+    <string name="faqs">FAQs</string>
+    // End of Main Menu
+
 </resources>
